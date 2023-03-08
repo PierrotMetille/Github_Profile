@@ -1,6 +1,17 @@
-# Github_Profile
-This is a private repo for " pimp my profil "
+# Pierrot Métille
+
+## Features
+
+- He know how to code
+- He do have Github basics
+- He almost have his IT CFC
+  
+  *And for the best coz every one know it*
+- He's **handsome**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierrotMetille&theme=monokai_icons=true)
-monokai
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierrotMetille&theme=monokai&show_icons=true)
+
+```sh
+Git clone https://handsomeMan.com/top10/PierrotMetille
+```
