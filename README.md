@@ -6,7 +6,7 @@
 - He do have Github basics
 - He almost have his IT CFC
   
-  *And for the best coz every one know it*
+  *And for the best coz everyone know it*
 - He's **handsome**
 
 
