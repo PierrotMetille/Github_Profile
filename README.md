@@ -22,7 +22,7 @@
 ## Stats
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierrotMetille&theme=monokai&show_icons=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierrotMetille&layout=compact&hide=TSQL&theme=dracula&count_private=true&     show_icons=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierrotMetille&layout=compact&hide=TSQL&theme=dracula&count_private=true&show_icons=true)
   
   Has you can see, he's damn good ;)
 
