@@ -4,7 +4,7 @@
 
 - He know how to code
 - He do have Github basics
-- He almost have his IT CFC
+- He's close to have his IT CFC
   
   *And for the best coz everyone know it*
 - He's **handsome**
