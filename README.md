@@ -34,7 +34,7 @@
 ### Useful command
 
 ```sh
-Git clone https://handsomeMan.com/top10/PierrotMetille
+Git clone https://github.com/handsomeMan/top10/PierrotMetille.git
 ```
 
 <div align="center">
